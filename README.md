@@ -138,14 +138,6 @@ Violations of these rules will result in disqualification.
 
 ---
 
-## 📧 Contact & Feedback
-
-**Questions?** Open a [GitHub Discussion](../../discussions)  
-**Feedback?** Click "Give Feedback" at the top of any page  
-**Direct Contact:** [competition@meshtastic.org](mailto:competition@meshtastic.org)
-
----
-
 ## 📄 License
 
 This competition repository is provided under the MIT License. Submitted projects retain their own licenses.
